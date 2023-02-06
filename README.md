@@ -1,11 +1,15 @@
-# KaueVBdev
+<h1
+align="center"> Projeto Intermediário - Agencia de Viagens </h1>
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
-HTML
-CSS
+- HTML
+- CSS
+- Github
+- Figma
+
+[Visualize o projeto finalizado] (https://kauevb.github.io/Projeto-Intermediario---Agencia-de-Viagens/)
 
 
-Projeto Intermediário - Rocketseat
-Desafio 2 do Explorer - Recriando o layout de uma homepage de agência de viagens
+
 
 by - Kauê Matos
